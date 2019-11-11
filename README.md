@@ -1,6 +1,6 @@
 # Advanced Lane Detection
 
-Apply computer vision techniques to augment video output with a detected road lane, road radius curvature and road centre offset. 
+Applying computer vision techniques to augment video output with a detected road lane, road radius curvature and road centre offset. 
 
 The goals / steps of this project are the following:
 
